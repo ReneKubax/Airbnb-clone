@@ -22,8 +22,4 @@ npm i
 npm run dev
 ```
 
-**Deploy of Portfolio**
 
-https://twitter-clone-v2-kohl.vercel.app/
-
-![image](https://github.com/ReneKubax/twitter-clone/assets/97212849/602069e8-0cd7-40da-913f-195e79404637)
